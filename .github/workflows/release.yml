@@ -1,4 +1,4 @@
-name: Release (manual)
+workflowname: Release (manual)
 
 on:
   workflow_dispatch:
